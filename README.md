@@ -20,7 +20,6 @@
 <br>
 <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wooov&layout=compact" height="200"><img src="https://github-readme-stats.vercel.app/api?username=wooov&show_icons=true" height="200">
-</div>
 
 
 ### 📧 About ME
