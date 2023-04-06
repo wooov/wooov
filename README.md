@@ -19,8 +19,8 @@
 
 <br>
 <br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wooov&show_icons=true)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wooov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wooov&layout=compact" height="200"><img src="https://github-readme-stats.vercel.app/api?username=wooov&show_icons=true" height="200">
+</div>
 
 
 ### 📧 About ME
