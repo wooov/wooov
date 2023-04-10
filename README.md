@@ -19,8 +19,8 @@
 
 <br>
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wooov&layout=Demo&theme=buefy)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wooov&show_icons=true&theme=buefy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wooov&layout=Demo&theme=buefy)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wooov&show_icons=true&theme=buefy)
 
 
 ### 📧 About ME
